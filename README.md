@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ECHO
 # Introduction
 In a world where communication serves as the cornerstone of human interaction, individuals with speech impairments face unique challenges in expressing themselves.
@@ -212,3 +213,38 @@ Happy learning!
 
 
 
+=======
+# Project Title
+
+This project is aimed at empowering the deaf and mute community by providing them with tools to improve their education and communication. It includes features like sign language to speech conversion, teaching sign language and English with the help of AI-generated images, and speech to text conversion for understanding spoken language and note-taking during lectures.
+
+## Features
+
+1. **Sign Language to Speech**: This feature uses Python and TensorFlow to convert sign language into speech, enabling mute individuals to communicate more effectively.
+
+2. **Teaching Sign Language and English**: This feature uses AI-generated images to teach sign language and English, providing an interactive and engaging learning experience.
+
+3. **Speech to Text**: This feature converts spoken language into text, allowing deaf individuals to understand what others are saying. It also includes a note-taking feature that can be particularly useful for deaf students during lectures.
+
+## Installation
+
+Follow these steps to set up the project on your local machine:
+
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
+cd <project-directory>
+npm install
+npm start
+```
+## Teachnologies used
+**This project is built with a variety of technologies and libraries, including:**
+
+-JavaScript
+-React
+-Material-UI
+-Tailwind CSS
+-Python
+-TensorFlow
+>>>>>>> 0599a44 (new files added)
